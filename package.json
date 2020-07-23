@@ -1,0 +1,22 @@
+{
+  "name": "beisbol",
+  "version": "1.0.0",
+  "description": "Fantasy Baseball Helper",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twobitint/beisbol.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twobitint/beisbol/issues"
+  },
+  "homepage": "https://github.com/twobitint/beisbol#readme",
+  "devDependencies": {
+    "electron": "^9.1.1"
+  }
+}
